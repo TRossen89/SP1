@@ -3,16 +3,16 @@
 
 PERSONAL INFORMATION:
 
-Name: Tobias Rossen
-Mail: cph-tr197@cphbusiness.dk
+- Name: Tobias Rossen
 
+- Mail: cph-tr197@cphbusiness.dk
 
-
+______________________________________________________________________________
 THE PROGRAM:
 
 The program is a rudimentary bookingsystem. It consists of 2 "screens": 
--- 1) one with 6 empty rectangles (representing movieposters) and 6 "Book Tickets"-buttons (one button underneath each poster)
--- 2) one with rows and collumns of white squares (representing seats in a movie theater) and a red "Back"-button
+1) one with 6 empty rectangles (representing movieposters) and 6 "Book Tickets"-buttons (one button underneath each poster)
+2) one with rows and collumns of white squares (representing seats in a movie theater) and a red "Back"-button
 
 When the program is open screen 1 - the screen with movieposters - is displayed 
 
